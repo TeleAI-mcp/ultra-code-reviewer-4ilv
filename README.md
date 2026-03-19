@@ -1,2 +1,3 @@
-# ultra-code-reviewer-4ilv
-Automated code review tool repository for bootcamp course
+# Ultra Code Reviewer 4Ilv
+
+A automated code review tool for modern development workflows.
